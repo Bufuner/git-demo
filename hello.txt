@@ -9,5 +9,9 @@ hello atguigu! hello git!
 hello atguigu! hello git! host
 hello atguigu! hello git! master
 hello atguigu! hello git! 3333
+<<<<<<< HEAD
 123456789
 
+=======
+11111111111111111
+>>>>>>> a41aae37739d456cd8992cd8a549820d47184476
